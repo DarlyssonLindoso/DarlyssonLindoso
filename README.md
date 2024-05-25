@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 <br>
+![](https://komarev.com/ghpvc/?username=DarlyssonLindoso&color=brightgreen)  <br>
 
-<!--
-**DarlyssonLindoso/DarlyssonLindoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Darlysson Lindoso, Sou programador Front End, Atualmente estou aprendendo e criando projetos com:
+<br>
+<br>
+- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <br>
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <br>
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <br>
+- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <br>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Darlysson Lindoso stats](https://github-readme-stats.vercel.app/api?username=DarlyssonLindoso&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)<br><br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darlyssonlindoso&hide_progress=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)<br>
+
+
